@@ -7,7 +7,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/godes"
+	"github.com/bh1cqx/godes"
 )
 
 // the arrival and service are two random number generators for the uniform  distribution

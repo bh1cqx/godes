@@ -14,7 +14,7 @@ The simulation is ended when the last customer has been served.
 import (
 	"fmt"
 
-	"github.com/godes"
+	"github.com/bh1cqx/godes"
 )
 
 //Input Parameters
